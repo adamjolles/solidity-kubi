@@ -91,7 +91,7 @@ The main Ethereum network is a global public network that anyone can use. It can
 
 **Testnets**
 
-Testnets (known as Test networks) are intended to help with oboarding adoption of Ethereum blockchains and testing facilities on this chain. This network has a different ledger and storage than the main network and us completely free of cost. This is because test ethers can be generated using faucets and used on these networks. There are multiple different test networks,
+Testnets (known as Test networks) are intended to help with oboarding adoption of Ethereum blockchains and testing facilities on this chain. This network has a different ledger and storage than the main network and is completely free of cost. This is because test ethers can be generated using faucets and used on these networks. There are multiple different test networks,
 
 [**1. Ropsten**](https://ropsten.etherscan.io)
 
