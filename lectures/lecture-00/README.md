@@ -103,8 +103,7 @@ Another Ethereum-based test network that uses PoA (Proof of Authority) consensus
 
 [**3. Kovan Testnet**](https://kovan-testnet.github.io/website/)
 
-Kovan test networks can only be used by parity clients and hence won't be discussed or used in this book.
-Kovan another PoA (Proof of Authority) publicly accessible network; created and maintained by a consortium of Ethereum developers, this network can only be used by parity clients and therefore will not be utilized or discussed later on.
+Kovan is another PoA (Proof of Authority) publicly accessible network; created and maintained by a consortium of Ethereum developers, this network can only be used by parity clients and therefore will not be utilized or discussed later on.
 
 [**4. Goerli**](https://goerli.net)
 
