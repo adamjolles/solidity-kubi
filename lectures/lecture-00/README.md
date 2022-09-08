@@ -115,7 +115,7 @@ A private network is created and hosted on private infrastructure. Private netwo
 
 **Consortium Network**
 
-Lastly a consortium network is a private network but the network comprises of onodes that are managed by different organizations. No organization has total control over the data and chain, however it is shared within an organization and everyone can view and modify it's current state. These networks are accessible through the internet or completely private networks requiring VPNs (Virtual private networks).
+Lastly a consortium network is a private network but the network comprises of nodes that are managed by different organizations. No organization has total control over the data and chain, however it is shared within an organization and everyone can view and modify it's current state. These networks are accessible through the internet or completely private networks requiring VPNs (Virtual private networks).
 
 https://user-images.githubusercontent.com/65584733/182721343-878654ff-b494-4f3e-8f2a-0463456655b3.mov
 
