@@ -52,11 +52,11 @@ In order to get the most value from the tutorials on this page, the following sk
 
 **What you will need for this lecture series**:
 
-1.  [Solidity Programming Essentials by Ritesh Modi ](libgen.li/file.php?md5=edd48931e28e22d74c84a03c28f50118)
+1.  [Solidity Programming Essentials by Ritesh Modi ](https://oiipdf.com/solidity-programming-essentials-a-beginners-guide-to-build-smart-contracts-for-ethereum-and-blockchain)
 
 2.  [Git Code Repository](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition.git)
 
-3.  [Solidity compiler 0.18.13](https://github.com/PacktPublishing/Solidity-Programming-Essentials-Second-Edition.git)
+3.  [Solidity compiler 0.18.13](https://github.com/ethereum/solidity/blob/v0.8.16/docs/installing-solidity.rst)
 
 4.  [web3.js v1.5.3](https://web3js.readthedocs.io/en/v1.7.5/) is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
