@@ -51,9 +51,9 @@ Ethereum Mainnet has it's network ID = 1. There are many other networks that Get
 
 ### 2. Choose a Consensus Algorithm
 
-While the mainnetwork uses proof-of-work (PoW) to secure the blockchain, Geth also supports the 'Clique' proof-of-authority (PoA) consensus algorithm as an alternative for private networks. Clique is strongly recommended for private testnets because PoA is far less resource-intensive than PoW. Clique is currently used as the consensus algorithm in public testnets such as Rinkeby and Görli Information regarding the Clique consensus algorithm is available here -> [Clique](https://eips.ethereum.org/EIPS/eip-225)
+While the mainnetwork uses proof-of-work (PoW) to secure the blockchain, Geth also supports the 'Clique' proof-of-authority (PoA) consensus algorithm as an alternative for private networks. Clique is strongly recommended for private testnets because PoA is far less resource-intensive than PoW. Clique is currently used as the consensus algorithm in public testnets such as Rinkeby and Görli. Information regarding the Clique consensus algorithm is available here -> [Clique](https://eips.ethereum.org/EIPS/eip-225)
 
-**Clique** consensus is a PoA system where new blocks can be created by authoried 'signers' only. The clique consensus protocol is specified in EIP-225. The initial set of aurthozied signers is configured in the genesis block. Signers can be authorized and de-authorized using a voting mechanism. therefore allowing the set of signers to change while the blockchain operates. Clique can be configured to target any block time since it isn't tied to the difficulty adjustment.
+**Clique** consensus is a PoA system where new blocks can be created by authoried 'signers' only. The clique consensus protocol is specified in EIP-225. The initial set of authorized signers is configured in the genesis block. Signers can be authorized and de-authorized using a voting mechanism. therefore allowing the set of signers to change while the blockchain operates. Clique can be configured to target any block time since it isn't tied to the difficulty adjustment.
 
 ### 3. Creating the Genesis Block
 
