@@ -39,16 +39,16 @@ This is a programming lecture series, thus most of the work and teaching here wi
 
 Ethereum-based blockchain programs can be deployed to multiple public networks, test networks, or private networks. The following will be the Ethereum-based tools and utilities that are necessary for building our programs. The following are the required assets you need to set up your development enviroment for building testing, deploying, & interacting with solidity contracts.
 
-In order to derive the most value from this lecture series the following skills are requist:
+In order to derive the most value from this lecture series the following skills are recommended:
 
 1. Experience using the command line tool
-2. Basic knowledge regarding Ethereum protocols and understanding of
+2. Basic knowledge regarding Ethereum protocols
 
 In order to get the most value from the tutorials on this page, the following skills are necessary:
 
-Experience using the command line
-Basic knowledge about Ethereum and testnets
-Basic knowledge about HTTP and JavaScript
+1. Experience using the command line
+2. Basic knowledge about Ethereum and testnets
+3. Basic knowledge about HTTP and JavaScript
 
 **What you will need for this lecture series**:
 
